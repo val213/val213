@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 &nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=val213&layout=compact&hide_border=true&hide_title=true)\
 &nbsp;
+<!-- ![暗色](https://raw.githubusercontent.com/val213/val213/output/github-contribution-grid-snake-dark.svg) -->
+![亮色](https://raw.githubusercontent.com/val213/val213/output/github-contribution-grid-snake.svg)
