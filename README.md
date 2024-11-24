@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 &nbsp;
 <!-- ![暗色](https://raw.githubusercontent.com/val213/val213/output/github-contribution-grid-snake-dark.svg) -->
 ![亮色](https://raw.githubusercontent.com/val213/val213/output/github-contribution-grid-snake.svg)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=val213)
