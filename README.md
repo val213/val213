@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=val213&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
+![](https://github-readme-stats.samuka007.com/api?username=val213&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 &nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=val213&layout=compact&hide_border=true&hide_title=true)\
+![](https://github-readme-stats.samuka007.com/api/top-langs/?username=val213&layout=compact&hide_border=true&hide_title=true)\
 &nbsp;
 <!-- ![暗色](https://raw.githubusercontent.com/val213/val213/output/github-contribution-grid-snake-dark.svg) -->
 ![亮色](https://raw.githubusercontent.com/val213/val213/output/github-contribution-grid-snake.svg)
